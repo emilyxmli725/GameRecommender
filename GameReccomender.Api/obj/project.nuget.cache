@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O6tUNjZ0A5I=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\GameRecommender\\GameReccomender.Api\\GameReccomender.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
