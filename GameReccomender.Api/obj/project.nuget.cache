@@ -1,11 +1,31 @@
 {
   "version": 2,
-  "dgSpecHash": "O6tUNjZ0A5I=",
+  "dgSpecHash": "a/Fj1EzzbbM=",
   "success": true,
   "projectFilePath": "C:\\Projects\\GameRecommender\\GameReccomender.Api\\GameReccomender.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\emily\\.nuget\\packages\\anglesharp\\1.3.0\\anglesharp.1.3.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\aspnet.security.openid\\10.0.0\\aspnet.security.openid.10.0.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\aspnet.security.openid.steam\\10.0.0\\aspnet.security.openid.steam.10.0.0.nupkg.sha512",
     "C:\\Users\\emily\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.14.0\\microsoft.identitymodel.protocols.8.14.0.nupkg.sha512",
+    "C:\\Users\\emily\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
     "C:\\Users\\emily\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'AngleSharp' 1.3.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-pgww-w46g-26qg",
+      "projectPath": "C:\\Projects\\GameRecommender\\GameReccomender.Api\\GameReccomender.Api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Projects\\GameRecommender\\GameReccomender.Api\\GameReccomender.Api.csproj",
+      "libraryId": "AngleSharp",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
