@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameReccomender.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbcdd93086b2e2c31e0412d08e84b6ca418315a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7f01742bd4282e616cfebf1337399085f60a700")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameReccomender.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameReccomender.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
