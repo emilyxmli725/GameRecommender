@@ -18,6 +18,7 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddAuthorization();
 builder.Services.AddControllers();
+builder.Services.AddHttpClient();
 var app = builder.Build();
 
 app.UseRouting();

@@ -1,1 +1,5 @@
 http://localhost:5046/weatherforecast
+###
+http://localhost:5046/api/authentication/login
+###
+http://localhost:5046/api/games/library/76561199000284413
